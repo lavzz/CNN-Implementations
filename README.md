@@ -10,4 +10,4 @@ cats_dogs_CNN - I attempted transfer learning here by taking the first 10 layers
 My model basically overfits (train accuracy ~99% and validation accuracy ~ 85%). comments to improve are welcome 
 
 
-what am i working on next? Semantic segmentation! 
+what am i working on next? An Industrial Implementation of Transfer learning! 
