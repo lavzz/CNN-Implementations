@@ -1,3 +1,7 @@
+## This script classified dogs from cats with 85% accuracy on a test set. It uses the dataset from Kaggle (called dogs vs. cats kernel edition)
+## and uses a fairly small sub-set (~2000 images out of the available 24000) to train a CNN. The network which uses VGG16 to 
+## transfer learn is trained on CPU for ~30 minutes only. 
+
 import os
 import shutil
 
