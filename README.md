@@ -15,5 +15,5 @@ mnist digits classifer - this is often considered as the "hello world" of deep l
 cats_dogs_CNN - I attempted to learn transfer learning here by taking the first 10 layers from VGG16 trained on imagenet and then training a fully connected last layers. 
 My model basically overfits (train accuracy ~99% and validation accuracy ~ 85%) but good intro to transfer learning 
 
-
+(I will keep adding more here) 
 
